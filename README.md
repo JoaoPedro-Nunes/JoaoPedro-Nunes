@@ -1,6 +1,6 @@
 ## Hi! 👋 Welcome to my profile
 #### My name is João Pedro and I'm Web developer.
-#### I'm Studying SAD 
+#### I'm Studying Systems Analysis and Development (SAD) 
  
  
 #### 💙 In love with JavaScript
